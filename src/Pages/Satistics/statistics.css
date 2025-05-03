@@ -1,0 +1,9 @@
+.line-chart {
+  background: linear-gradient(
+    to right,
+    #0c0c0a,
+    #076e07ce
+  ); /* Example gradient */
+  box-shadow: 0 10px 30px rgba(143, 190, 149, 0.849);
+  font-family: "Exo 2", sans-serif;
+}
