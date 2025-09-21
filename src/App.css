@@ -1,13 +1,1 @@
 @import "tailwindcss";
-
-body {
-  font-family: "Exo 2", sans-serif;
-}
-.scrollbar-hide::-webkit-scrollbar {
-  display: none;
-}
-
-.scrollbar-hide {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}

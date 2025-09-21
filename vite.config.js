@@ -4,4 +4,8 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  build: {
+    chunkSizeWarningLimit: 2000, // raise limit to 2MB
+  },
 })
+

@@ -1,7 +1,10 @@
+import { useState } from "react";
+
 export const toSavePercentage = 30;
 export const unixDay = 86400;
 export const unixWeek = unixDay * 7;
 export const unixMonth = unixDay * 30;
+useState;
 
 export const expenseData = [
   {
